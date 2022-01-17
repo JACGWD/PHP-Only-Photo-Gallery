@@ -1,5 +1,8 @@
 # ------  JACGWD ------------- #
 # Delete this entire block of code (JACGWD to /JACGWD) before uploading to live server
+# This code comes from https://github.com/JACGWD/CacheBuster
+# It's main job is to prevent the browser and the server from holding onto old copies of your files so that you always see the most recent copy
+
 
 # Disables caching of static files
 <filesMatch "\.(html|htm|js|css|jpg|png|gif|mp4|mov|mp3|svg)$">

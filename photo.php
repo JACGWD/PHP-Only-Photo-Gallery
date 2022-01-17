@@ -1,6 +1,16 @@
 <?php
+// This page displays the high resolution image
+// Every time you click a thumbnail link, this page is called up
+// That means you only have one page to maintain, not 20 or 500 000
+// You get it to display a different image by send it a different ID number
+// Each database record is identified by a unique ID number
+// This ID number is called a "primary key"
+// The ID number is sent as part of the URL (after the question mark)
+// Ex: photo.php?id=9 calls up photo #9
+
 
 require_once $_SERVER["DOCUMENT_ROOT"]."/config.php";
+// fetch the config file
 
 $passedID = $_GET['id'];
 // get the ID number from the incoming URL
