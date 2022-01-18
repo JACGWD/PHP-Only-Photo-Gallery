@@ -1,6 +1,6 @@
 <?php
 
-// This recordset is for the HOME page
+// This recordset is for the third picture
 
 
 $content = array  // an array is a set of related information. Ex: multiple pieces of info about one photo
