@@ -12,7 +12,7 @@ array  // the third array inside "content": child array #3
       'metadescription'   => "Beachwood Stump at Cap Bon Ami Beach in Gaspésie",
       'h1title'           => "Beachwood Stump at Cap Bon Ami",
       'imagepath'         => "/img/sample3.jpg",
-      'caption'           => "Beachwood Stump at Cap Bon Ami Beach in Gaspésie Queébec Canada",
+      'caption'           => "Beachwood Stump at Cap Bon Ami Beach in Gaspésie Québec Canada",
       'copyright'         => "&copy Eric Girouard, 2021")
 );
 ?>  
