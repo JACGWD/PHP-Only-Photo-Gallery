@@ -1,0 +1,30 @@
+{
+    "recommendations": [
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-complete-tag",
+        "formulahendry.auto-rename-tag",
+        "mrmlnc.vscode-autoprefixer",
+        "aaron-bond.better-comments",
+        "streetsidesoftware.code-spell-checker",
+        "kamikillerto.vscode-colorize",
+        "pranaygp.vscode-css-peek",
+        "smelukov.vscode-csstree",
+        "ctcuff.font-preview",
+        "eamodio.gitlens",
+        "vincaslt.highlight-matching-tag",
+        "ecmel.vscode-html-css",
+        "anteprimorac.html-end-tag-labels",
+        "kisstkondoros.vscode-gutter-preview",
+        "zignd.html-css-class-completion",
+        "yzhang.markdown-all-in-one",
+        "ms-edgedevtools.vscode-edge-devtools",
+        "christian-kohler.path-intellisense",
+        "bmewburn.vscode-intelephense-client",
+        "esbenp.prettier-vscode",
+        "jock.svg",
+        "henoc.svgeditor",
+        "tabnine.tabnine-vscode",
+        "qcz.text-power-tools",
+        "vscode-icons-team.vscode-icons"
+    ]
+}
