@@ -1,0 +1,82 @@
+/* --------------------------------------
+COLOR PALETTE WITH CSS VARIABLES
+----------------------------------------- */   
+
+:root {
+    --main-bg-color: rgb(255, 255, 255);
+    --main-fg-color: rgb(1, 35, 70);
+    --titles-color: #1c0263;
+    --bodytext-color: #444444;
+  }
+  
+ body {
+     background-color: var(--main-bg-color);
+     color: var(--bodytext-color);
+    }
+ 
+ h1,h2,h3,h4,h5,h6 {
+     color: var( --titles-color);
+ }
+
+
+/* --------------------------------------
+  RESPONSIVE IMAGES
+----------------------------------------- */  
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* --------------------------------------
+   DEFAULT STYLES GO HERE
+----------------------------------------- */   
+
+
+
+
+/* --------------------------------------
+   MEDIA QUERIES FOR LARGER VIEWPORTS
+----------------------------------------- */   
+
+/* No media query for "extra small" since this is the default  
+   The following media query sizes are taken from Bootstrap 5
+   See: https://getbootstrap.com/docs/5.1/layout/breakpoints/
+   and: https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
+*/
+
+
+@media only screen and (min-width: 576px) { 
+       
+}
+
+
+
+/* MEDIUM DEVICES (TABLETS, 768PX AND UP) */
+@media only screen and (min-width: 768px) {
+    
+}
+
+
+
+
+
+/* LAPTOPS AND DESKTOPS CAN BE REGULAR OR RETINA DISPLAY  */
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+
+  }
+
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+  }
+
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {
+
+  }
+
